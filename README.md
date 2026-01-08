@@ -410,7 +410,7 @@ docker compose exec ollama ollama run mistral-small:24b
 
 ### 1. Interfaz Funcionando
 
-![Interfaz de Open WebUI funcionando](capturas/interfaz-inicial.png)
+![Interfaz de Open WebUI funcionando](capturas/image0.png)
 
 **Modelo utilizado:** Qwen2.5:0.5b  
 **Sistema:** macOS  
@@ -426,7 +426,7 @@ docker compose exec ollama ollama run mistral-small:24b
 ¿Qué es la inteligencia artificial y cuáles son sus principales aplicaciones actuales?
 ```
 
-![Respuesta sobre IA](capturas/pregunta-1-ia.png)
+![Respuesta sobre IA](capturas/image1.png)
 
 ---
 
@@ -436,7 +436,7 @@ docker compose exec ollama ollama run mistral-small:24b
 Escribe una función en Python que calcule los números primos hasta N usando la Criba de Eratóstenes.
 ```
 
-![Respuesta sobre programación](capturas/pregunta-2-programacion.png)
+![Respuesta sobre programación](capturas/image2.png)
 
 ---
 
@@ -446,7 +446,7 @@ Escribe una función en Python que calcule los números primos hasta N usando la
 Explícame el concepto de "soberanía de datos" y por qué es importante para las empresas europeas.
 ```
 
-![Respuesta sobre soberanía de datos](capturas/pregunta-3-espanol.png)
+![Respuesta sobre soberanía de datos](capturas/image3.png)
 
 ---
 
@@ -458,7 +458,7 @@ Todas las etiquetas están mal puestas. Si solo puedo sacar una fruta de una caj
 ¿cómo puedo etiquetar correctamente todas las cajas?
 ```
 
-![Respuesta sobre razonamiento](capturas/pregunta-4-razonamiento.png)
+![Respuesta sobre razonamiento](capturas/image4.png)
 
 ---
 
